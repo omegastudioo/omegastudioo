@@ -1,36 +1,34 @@
-# 💾 Repositories
+# Ω Omega Studio
 
+Free FiveM scripts. Always.
 
-## AD-Practice
-![Banner](https://i.imgur.com/k4aH6RF.png)
+Omega Studio exists to prove one thing:  
+**anyone can code** — and paywalls don’t make scripts better.
 
-- [Download](https://github.com/Afterdeathstudio/AD-Practice)
+---
 
+## What We Stand For
 
-## AD-HideHud
-![Banner](https://i.imgur.com/yq14LiE.png)
+- 🆓 100% free scripts  
+- 🧠 Learning by doing, not by paying  
+- ⚙️ Clean, readable, open code  
+- 🚫 No escrow, no lock-ins, no nonsense
 
-- [Download](https://github.com/Afterdeathstudio/AD-HideHud)
+---
 
+## Philosophy
 
-## AD-ShowFunds
-![Banner](https://i.imgur.com/UMzLpME.png)
+Good code is built with skill, not a price tag.  
+If a script only works because it’s paid, it wasn’t good to begin with.
 
-- [Download](https://github.com/Afterdeathstudio/AD-ShowFunds)
+---
 
+## Stack
 
-## AD-SimpleSpeedometer
-![Banner](https://i.imgur.com/ehKpUmL.png)
+Lua • ESX • QBCore • ox_lib • ox_inventory
 
-- [Download](https://github.com/Afterdeathstudio/AD-SimpleSpeedometer)
+---
 
-# 🔗 Links
+## Omega Studio
 
-## Gitbook
-
-- [afterdeath.gitbook.io](https://afterdeath.gitbook.io/afterdeath-studios/)
-
-
-## Discord
-
-- [discord.gg/5D3wdy4dQH](https://discord.gg/5D3wdy4dQH)
+Open code. Open minds.
